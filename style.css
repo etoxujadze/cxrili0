@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+@font-face {
+    font-family: "fonti";
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+.container {
+    width: 1170px;
+    margin: auto;
+    font-family: "fonti";
+
+}
+.ni {
+    margin-left: 5px;
+}
+.form {
+    display: flex;
+    justify-content: space-between;
+
+}
+.saxeli {
+    width: 201px;
+    height: 45px;
+    border: 1px solid #e0e0e0 ;
+    border-radius: 10px;
+
+
+}
+.ricxvi { 
+    width: 593px;
+    height: 45px;
+    border: 1px solid #e0e0e0 ;
+    border-radius: 10px;
+}
+.dro {
+    width: 201px;
+    height: 45px;
+    border: 1px solid #e0e0e0 ;
+    border-radius: 10px;
+}
+.gilaki {
+    width: 115px;
+    height: 45px;
+    border: 1px solid #DADADA;
+    border-radius: 10px;
+    background-color: #FFD43A;
+}
+.nam {
+padding-left: 22px;
+}
+
+th {
+    border: 1px solid #DADADA;
+    width: 900x;
+}
+td {
+    border: 1px solid #DADADA;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+tr {
+    height:57px ;
+  
+}
+th {
+    border: 1px solid #DADADA;
+    background-color: #f9f9f9;
+}
+td {
+    border: 1px solid #DADADA;
+ }
+ button {
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+ }
+.id {
+    width: 115px;
+    height: 36px;
+    background-color: red;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+
+}
+
+.di {
+    width: 72px;
+    height: 57px;
+}
+.title {
+    width: 500px;
+    height: 57px;
+    padding-left: 23px;
+    text-align: start; 
+    
+    
+}
+.text {
+    font-size: 15px;
+    padding-left: 23px;
+    text-align: start;
+    color: #000000;
+
+    
+    
+}
+.Created {
+    width: 276px;
+    height: 57px;
+}
+.action {
+    width: 251px;
+    height: 57px;
+}
+.acti {
+    width: 251px ;
+    height: 57px;
+}
+.weli {
+    color: red;
+}
